@@ -27,6 +27,7 @@ main.pdf
 *~
 *.bcf
 *.run.xml
+*.DS_Store
 
 ## Build tool auxiliary files:
 *.fdb_latexmk
